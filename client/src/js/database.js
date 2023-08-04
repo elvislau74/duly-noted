@@ -1,5 +1,7 @@
+// import openDB from idb dependency
 import { openDB } from 'idb';
 
+// Create the database
 const initdb = async () =>
   openDB('jate', 1, {
     upgrade(db) {
