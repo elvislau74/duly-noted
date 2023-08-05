@@ -39,6 +39,7 @@
 
   This application is easy to use! Just click on any line and add or edit notes or reminders for yourself. Whatever you type in will stay on the page, even on reload. You can even install this app for offline use on any of your devices! Just click on the install button on the top left of the page or click on the computer install button to the right of the URL.
 
+![duly-noted-text-editor-5ac1387f2bf2 herokuapp com_](https://github.com/elvislau74/duly-noted/assets/126195092/6e323a68-62a5-45f5-abfc-fa28147d9be3)
 
   [Click here for the Live Site](https://duly-noted-text-editor-5ac1387f2bf2.herokuapp.com/)
 
